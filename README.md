@@ -77,12 +77,17 @@ Current Skills, Missing Skills, Recommended Roadmap, Suggested Jobs, Improvement
 ---
 
 # 📸 Demo
+<img width="1917" height="741" alt="Screenshot 2026-10-03 024732" src="https://github.com/user-attachments/assets/13c6b2d5-9d73-4393-9573-e8f4c60c5c6e" />
 
-![Uploading Screenshot 2026-10-03 024718.<img width="1916" height="780" alt="Screenshot 2026-10-03 024820" src="https://github.com/user-attachments/assets/86ee2155-2101-4f49-a1cd-bf9b50bafa4d" />
-<img width="1842" height="805" alt="Screenshot 2026-10-03 024757" src="https://github.com/user-attachments/assets/e119d2e0-4c74-444a-a632-43c80d304ae4" />
-<img width="1901" height="728" alt="Screenshot 2026-10-03 024742" src="https://github.com/user-attachments/assets/be54b970-ce2f-4e63-9bf7-1a6e13334b2c" />
-<img width="1917" height="741" alt="Screenshot 2026-10-03 024732" src="https://github.com/user-attachments/assets/ac74a4f7-6f3b-4c5f-9b95-1cdabfd3e344" />
-png…]()
+<img width="1901" height="728" alt="Screenshot 2026-10-03 024742" src="https://github.com/user-attachments/assets/3483f2d0-5a0b-42d8-a76d-e91182947e8b" />
+
+<img width="1842" height="805" alt="Screenshot 2026-10-03 024757" src="https://github.com/user-attachments/assets/cffb9c77-1fd6-42de-9d67-2f92e901dd22" />
+
+<img width="1916" height="780" alt="Screenshot 2026-10-03 024820" src="https://github.com/user-attachments/assets/869cb9b6-4e65-4816-830c-df07b3bed212" />
+
+
+
+
 
 ---
 
